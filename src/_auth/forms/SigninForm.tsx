@@ -1,9 +1,9 @@
-import React from 'react'
+import type { Sign } from "crypto"
 
-const LoginForm = () => {
+const SigninForm = () => {
   return (
     <div>LoginForm</div>
   )
 }
 
-export default LoginForm
+export default SigninForm

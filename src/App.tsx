@@ -7,6 +7,9 @@ import { Home } from "./_root/pages";
 import RootLayout from "./_root/RootLayout";
 // import supabase from '@/supabase-client'
 
+
+import "./App.css";
+
 const App = () => {
   return (
     <main className="flex h-screen">
